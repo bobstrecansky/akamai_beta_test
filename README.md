@@ -1,8 +1,10 @@
-# Filename: betatest.py
-## Objective: Test against both a beta and a legacy origin
-#### Installation Instructions: Install python software (sudo apt-get install python)
-#### Execution: 
+## Filename: betatest.py
+### Objective: Test against both a beta and a legacy origin
+#### Installation Instructions: 
+###### Install python software (sudo apt-get install python)
+###### Install python dependencies (sudo pip install -r requirements.txt)
 
+#### Execution: 
 ######➜ python betatest.py --host www.autotrader.com --o autotrader.txt
 ###### http://www.autotrader.com/html/technology/index.html [0.16]
 ###### http://www.autotrader.com/html/industry/index.html [0.16]
