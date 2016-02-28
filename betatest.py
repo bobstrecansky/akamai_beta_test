@@ -6,7 +6,6 @@ Not intended to be especially generic or reusable.
 """
 
 from __future__ import division, print_function
-
 import argparse
 import collections
 import csv

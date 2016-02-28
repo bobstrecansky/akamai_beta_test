@@ -1,9 +1,0 @@
-import betatest
-
-
-def beta_test_validation():
-    assert_equals(betatest(), "beta test completed")
-
-
-if __name__ == '__main__':
-    beta_test_validation()
